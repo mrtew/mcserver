@@ -844,7 +844,7 @@ confirm-home-overwrite: false
 # You can control the values of items that are sold to the server by using the /setworth command and 'worth.yml'.
 
 # Defines the balance new players start with.
-starting-balance: 0
+starting-balance: 1000
 
 # Defines the cost to use the given commands PER USE.
 # Some commands like /repair have sub-costs. Check the wiki for more information.
@@ -884,7 +884,7 @@ economy-log-uuids: false
 economy-log-update-enabled: false
 
 # The minimum acceptable amount to be used in /pay.
-minimum-pay-amount: 0.001
+minimum-pay-amount: 0.01
 
 # Enable this to block players who try to /pay someone who is ignoring them.
 pay-excludes-ignore-list: false
