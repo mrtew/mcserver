@@ -44,6 +44,11 @@ versions/
 # *.dat
 # *.json
 
+# Plugins
+plugins/.paper-remapped/
+plugins/bStats/
+plugins/spark/
+
 # Plugins jars (optional)
 # plugins/*.jar
 
